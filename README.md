@@ -3,11 +3,11 @@ Use python to create a simple static webpage in html for your e-fed.\
 To see an example: https://leenoah390.github.io/roster.html
 
 ## Pre-steps:
-1. Must have Python installed (at the very least, version 3.8)
-   1. *I used Anaconda Spyder for my IDE*
-2. Have a folder containing images of your wrestlers
-3. Download `file_names.py` and `roster_creator.py`, then move both files into your image folder described in (2)
-4. Knowledge of html is helpful
+1. Must have Python installed (at the very least, version 3.8) along with an IDE
+   1. *I used Anaconda Spyder*
+3. Have a folder containing images of your wrestlers
+4. Download `file_names.py` and `roster_creator.py`, then move both files into your image folder described in (2)
+5. Knowledge of html is helpful
 ---
 ## How to use:
 1. Open `file_names.py`.
